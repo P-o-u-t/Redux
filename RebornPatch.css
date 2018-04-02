@@ -673,3 +673,22 @@ form .bf-toolbar{transform: translate(-3px,-45px) !important;}
     width: 100px;
     margin: 5px;
 }
+
+.theme-dark .cardPrimaryEditable-2IQ7-V {
+    background: transparent !important;
+}
+
+.theme-dark #friends .friends-table .friends-row+.friends-row {
+    border-top: transparent !important;
+}
+
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {
+    background-color: transparent !important;
+}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {
+    background-color: transparent !important;
+}
+
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {
+    background-color: transparent !important;
+}
