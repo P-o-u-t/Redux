@@ -629,4 +629,47 @@ form .bf-toolbar{transform: translate(-3px,-45px) !important;}
 
 .friends-table{
     margin-top: 0 !important;
-    }
+}
+
+.ui-standard-sidebar-view .bda-slist li {
+    background: rgba(0,0,0,0.8);
+    border-bottom: 0px;
+    margin-top: 15px;
+}
+
+.ui-standard-sidebar-view .bda-slist li:nth-child(odd) {
+    background: rgba(0,0,0,0.8);
+    border-top: 0px;
+}
+
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .ui-form-title.h2+.bd-pfbtn {
+    top: 20px;
+    position: absolute;
+    left: -1200px;
+    background: rgba(0,0,0,0.8) !important;
+    font-weight: 100;
+}
+
+#bd-settingspane-container .bd-pfbtn {
+    position: static;
+    margin-bottom: 0;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left 100px;
+}
+
+#bd-settingspane-container .bd-pfbtn {
+    position: static;
+    margin-bottom: 0px;
+    display: none;
+    border-radius: 5px;
+}
+.ui-standard-sidebar-view .bda-slist .bda-right button {
+    background: transparent;
+    color: #FFF;
+    border-radius: 5px;
+    height: 30px;
+    display: block;
+    width: 100px;
+    margin: 5px;
+}
