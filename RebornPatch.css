@@ -4,6 +4,7 @@
 /* User Settings */
 :root {
 	--theme-name: "Discord Reborn";
+	--main-color: rgba(0,0,0,0.8);
 }
 /* Dark Mode Settings */
 
@@ -694,4 +695,8 @@ form .bf-toolbar{transform: translate(-3px,-45px) !important;}
 }
 .wrapper-2ldvyE {
     background-color: transparent !important;
+}
+
+.tooltip.tooltip-black {
+    display: none !important;
 }
