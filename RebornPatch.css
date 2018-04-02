@@ -426,12 +426,12 @@ form .bf-toolbar{transform: translate(-3px,-45px) !important;}
 }
 
 .wrapperHoveredText-1PA_Uk .unread-23Kvxk~.contentHoveredText-2HYGIY {
-    border-left: 3px solid transparent !important;
+    border-left: 0px solid transparent !important;
 }
 
 .contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
     background-color: rgba(0,0,0,0.3)!important;
-    border-left: 3px solid transparent;
+    border-left: 0px solid transparent;
 }
 .menu-3BZuDT .status-online {
     background-color: var(--rs-online-color);
