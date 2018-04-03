@@ -1,4 +1,7 @@
-
+/* IMPORT CSS FROM GITHUB */
+@import url("https://rawgit.com/P-o-u-t/Redux/master/KyaRebornPatch.css");
+/*
+*/
 .chat .inner-3if5cm {
     background-color: rgba(0,0,0,0.3) !important;
 }
