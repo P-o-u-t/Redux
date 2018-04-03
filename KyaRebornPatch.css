@@ -28,14 +28,6 @@
     background: var(--secondary-color);
 }
 
-.callout-backdrop, .appMount-14L89u {
-  background-size: cover !important;
-  background-position: center !important;
-}
-.callout-backdrop, .appMount-14L89u {
-  background-image: url("https://i.imgur.com/lXlW1Nm.jpg") !important;
-}
-
 .chat, .container-RYiLUQ, .container-2OU7Cz, .theme-dark .ui-standard-sidebar-view .content-region, .ui-standard-sidebar-view .sidebar-region .sidebar, .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller, .layer, .layers, .content, .layer-kosS71, .layers-20RVFW, .messages-wrapper .message-group, .wrapper-VSYYTS, .clipboardInputInner-oj8y-S, #friends, .activity-3NviKQ, .body-_3kd4C, .newsLink-SC025S:hover, .newsLink-SC025S, .news-XQhS0 .theme-dark .popout.popout-bottom:not(.no-arrow)[style*="z-index: 1000; overflow: hidden; visibility: visible;"] {
   background: var(--rs-transparency) !important;
   background-color: var(--rs-transparency) !important;
