@@ -13,7 +13,7 @@
 
 .theme-dark .chat form {
     -webkit-box-shadow: 0 -1px 0 hsla(0,0%,100%,.06);
-    background-color: var(--secondary-color) !important;
+    background-color: rgba(0,0,0,0.75) !important;
 }
 
 .headerSpotify-26yUf5 {
