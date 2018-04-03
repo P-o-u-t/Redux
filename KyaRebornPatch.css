@@ -45,9 +45,6 @@
   background-color: rgba(0,0,0,0.6) !important;
 }
 
-.guilds-wrapper {
-    background-color: rgba(0,0,0,0.6) !important;
-}
 
 .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view {
   background: var(--rs-transparency); !important;
@@ -121,10 +118,6 @@ bc46c2d….css:1
 }
 
 .private-channels .search-bar .search-bar-inner {
-    background-color: var(--rs-transparency) !important;
-}
-
-.guilds-wrapper {
     background-color: var(--rs-transparency) !important;
 }
 
