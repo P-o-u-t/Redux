@@ -1,3 +1,8 @@
+.theme-dark .member-2FrNV0:hover .content-3JzEqq {
+    background-color: var(--tertiary-color) !important;
+    color: #fff;
+}
+
 .theme-dark .chat form {
     -webkit-box-shadow: 0 -1px 0 hsla(0,0%,100%,.06);
     background-color: rgba(0,0,0,0.6) !important;
