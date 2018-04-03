@@ -1,6 +1,6 @@
-.theme-dark .member-2FrNV0:hover .content-3JzEqq {
-    background-color: var(--tertiary-color) !important;
-    color: #fff;
+
+.chat .inner-3if5cm {
+    background-color: rgba(0,0,0,0.3) !important;
 }
 
 .theme-dark .chat form {
@@ -8,17 +8,37 @@
     background-color: rgba(0,0,0,0.6) !important;
 }
 
-.chat .inner-3if5cm {
-    background-color: rgba(0,0,0,0.4) !important;
-}
-
 .guilds-wrapper {
-    background-color: rgba(0,0,0,0.75) !important;
+    background-color: rgba(0,0,0,0.8) !important;
 }
 
-.theme-dark .chat form {
-    -webkit-box-shadow: 0 -1px 0 hsla(0,0%,100%,.06);
-    background-color: rgba(0,0,0,0.75) !important;
+.callout-backdrop, .appMount-14L89u {
+  background-size: cover !important;
+  background-position: center !important;
+}
+.callout-backdrop, .appMount-14L89u {
+  background-image: url("https://imgur.com/RG03PyX.png") !important;
+}
+
+.chat, .container-RYiLUQ, .container-2OU7Cz, .theme-dark .ui-standard-sidebar-view .content-region, .ui-standard-sidebar-view .sidebar-region .sidebar, .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller, .layer, .layers, .content, .layer-kosS71, .layers-20RVFW, .messages-wrapper .message-group, .wrapper-VSYYTS, .clipboardInputInner-oj8y-S, #friends, .activity-3NviKQ, .body-_3kd4C, .newsLink-SC025S:hover, .newsLink-SC025S, .news-XQhS0 .theme-dark .popout.popout-bottom:not(.no-arrow)[style*="z-index: 1000; overflow: hidden; visibility: visible;"] {
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+.guilds-wrapper .guilds>div.guild:first-child .guild-inner, .chat>.content, .container-iksrDt {
+  background-color: transparent !important;
+}
+
+.messages-wrapper {
+  background-color: var(--primary-color);
+}
+
+.theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view {
+  background: var(--quaternary-color) !important;
+}
+
+.menu-3BZuDT.alt-2vq4VR, .listeningAlong-13-Udx {
+    background: var(--primary-color) !important;
 }
 
 .headerSpotify-26yUf5 {
