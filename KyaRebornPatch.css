@@ -42,11 +42,11 @@
 }
 
 .guilds-wrapper .guilds>div.guild:first-child .guild-inner, .chat>.content, .container-iksrDt {
-  background-color: var(--rs-transparency) !important;
+  background-color: rgba(0,0,0,0.6) !important;
 }
 
-.messages-wrapper {
-  background-color: var(--rs-transparency);
+.guilds-wrapper {
+    background-color: rgba(0,0,0,0.6) !important;
 }
 
 .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view {
