@@ -700,3 +700,49 @@ form .bf-toolbar{transform: translate(-3px,-45px) !important;}
     display: none !important;
 }
 
+/* Please work u dumb fuckin chat indicator */
+
+.status.status-typing.status-online {
+    border-radius: 0px !important;
+    width: 0px !important;
+    right: 0px!important;
+    height: 0px !important;
+}
+/* Typing Indicator */
+.status.status-typing {
+    width: 100% !important;
+    height: 100% !important;
+    background: transparent !important;
+    margin: 0;
+    border-width: 2px;
+    border-style: solid;
+}
+.status.status-typing.status-online .spinner-item {
+    background-color: var(--rs-online-color) !important;
+}
+.status.status-typing.status-idle .spinner-item {
+    background-color: var(--rs-idle-color) !important;
+}
+.status.status-typing.status-dnd .spinner-item {
+    background-color: var(--rs-dnd-color) !important;
+}
+.status.status-typing.status-invisible .spinner-item,
+.status.status-typing.status-offline .spinner-item{
+    background-color: var(--rs-offline-color) !important;
+}
+.status.status-typing.status-streaming .spinner-item {
+    background-color: var(--rs-streaming-color) !important;
+}
+.status.status-typing .spinner-item {
+    height: 3px;
+    width: 3px;
+    border-radius:0px;
+}
+span.spinner {
+    width: 100% !important;
+    height: 100% !important;
+}
+span.spinner > .spinner-inner {
+    top: 0 !important;
+}
+
