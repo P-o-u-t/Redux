@@ -42,7 +42,7 @@
 }
 
 .guilds-wrapper .guilds>div.guild:first-child .guild-inner, .chat>.content, .container-iksrDt {
-  background-color: rgba(0,0,0,0.6) !important;
+  background-color: transparent !important;
 }
 
 
