@@ -3,8 +3,12 @@
     background-color: rgba(0,0,0,0.6) !important;
 }
 
+.chat .inner-3if5cm {
+    background-color: rgba(0,0,0,0.4) !important;
+}
+
 .guilds-wrapper {
-    background-color: rgba(0,0,0,0.6) !important;
+    background-color: rgba(0,0,0,0.75) !important;
 }
 
 .theme-dark .chat form {
