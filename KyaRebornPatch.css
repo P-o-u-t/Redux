@@ -81,6 +81,11 @@
   /* color for streaming status */
 }
 
+.theme-dark .chat form {
+    -webkit-box-shadow: 0 -1px 0 hsla(0,0%,100%,.06);
+    background-color: var(--secondary-color) !important;
+}
+
 .headerSpotify-26yUf5 {
     background: rgba(37, 255, 110, 0.6);
 }
