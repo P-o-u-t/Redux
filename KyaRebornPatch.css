@@ -8,7 +8,7 @@
 /* Dark Mode Settings */
 
 .app.theme-dark, .theme-dark, .theme-dark .theme-light, .theme-dark.popouts, .theme-light.popouts+.tooltips, .tooltips+.theme-dark {
-  --rs-transparency: rgba(0,0,0,0,0) !important;
+  --rs-transparency: rgba(0,0,0,0) !important;
   /* primary transparency */
   --primary-color: rgba(0,0,0,0.6);
   /* primary background color */
